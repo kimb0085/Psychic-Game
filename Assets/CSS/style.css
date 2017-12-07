@@ -1,0 +1,25 @@
+* {
+	box-sizing: border-box;
+}
+
+.jumbotron {
+    text-align: center;
+    font-family: 'Sigmar One', cursive;
+    color: blue;
+    background-color: black;
+    padding: 15px;
+}
+
+.thumbnail {
+	width: 200px;
+	height: 115px;
+	margin-top: 15px;
+	padding: 0px;
+	position: relative;
+	right: -577px;
+
+}
+
+.container {
+	font-family: 'Luckiest Guy', cursive;
+}
